@@ -1,0 +1,42 @@
+img {
+    width: 600px;
+    height: 300px;
+        margin: 200px 50px 50px 350px;
+    }
+
+
+body{
+    background-image: linear-gradient(to right, rgba(236, 186, 22, 0), rgb(82, 47, 7));
+    margin: 0;
+}
+
+/*header*/
+
+.header {
+    padding:10px;
+    text-align: center;
+    background: rgb(250, 250, 250);
+    color: white;
+    font-size: 20px;
+    position: relative;
+    margin: none;
+  }
+
+  /*list*/
+  ul {
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+li {
+    width: auto;
+    display: inline;
+    padding: 50px;
+}
+
+/*link_styles*/
+a {
+text-decoration: none;
+color: black;
+}
